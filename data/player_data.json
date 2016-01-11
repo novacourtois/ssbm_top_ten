@@ -1,0 +1,164 @@
+{
+	"players":{
+		"Armada": {
+			"sponsor": "Alliance",
+			"tag": "Armada",
+			"rank": 1,
+			"performance": [
+				{ "tag":"Hungrybox", "sets":12, "wins":8, "losses":4},
+				{ "tag":"Leffen",    "sets":15, "wins":8, "losses":7},
+				{ "tag":"Mango",     "sets":9, "wins":7, "losses":2},
+				{ "tag":"Mew2King",  "sets":2, "wins":2, "losses":0},
+				{ "tag":"PPMD",      "sets":5, "wins":3, "losses":2},
+				{ "tag":"Plup",      "sets":2, "wins":2, "losses":0},
+				{ "tag":"Westballz", "sets":2, "wins":2, "losses":0},
+				{ "tag":"Axe",       "sets":2, "wins":2, "losses":0},
+				{ "tag":"Shroomed",  "sets":5, "wins":5, "losses":0}	
+			]
+		},		
+		"Hungrybox": {
+			"sponsor": "Liquid",
+			"tag": "Hungrybox",
+			"rank": 2,
+			"performance": [
+				{ "tag":"Armada",    "sets":12, "wins":4, "losses":8},
+				{ "tag":"Leffen",    "sets":7, "wins":3, "losses":4},
+				{ "tag":"Mango",     "sets":4, "wins":2, "losses":2},
+				{ "tag":"Mew2King",  "sets":8, "wins":7, "losses":1},
+				{ "tag":"PPMD",      "sets":1, "wins":1, "losses":0},
+				{ "tag":"Plup",      "sets":3, "wins":3, "losses":0},
+				{ "tag":"Westballz", "sets":21, "wins":15, "losses":0},
+				{ "tag":"Axe",       "sets":2, "wins":2, "losses":0},
+				{ "tag":"Shroomed",  "sets":3, "wins":2, "losses":1}	
+			]
+		},
+		"Leffen": {
+			"sponsor": "TSM",
+			"tag": "Leffen",
+			"rank": 3,
+			"performance": [
+				{ "tag":"Armada",    "sets":15, "wins":7, "losses":8},
+				{ "tag":"Hungrybox", "sets":7, "wins":4, "losses":3},
+				{ "tag":"Mango",     "sets":7, "wins":3, "losses":7},
+				{ "tag":"Mew2King",  "sets":9, "wins":5, "losses":4},
+				{ "tag":"PPMD",      "sets":1, "wins":0, "losses":1},
+				{ "tag":"Plup",      "sets":4, "wins":3, "losses":1},
+				{ "tag":"Westballz", "sets":4, "wins":2, "losses":2},
+				{ "tag":"Axe",       "sets":1, "wins":1, "losses":0},
+				{ "tag":"Shroomed",  "sets":4, "wins":3, "losses":1}
+			]
+		},
+		"Mango": {
+			"sponsor": "C9",
+			"tag": "Mango",
+			"rank":4,
+			"performance": [
+				{ "tag":"Armada",    "sets":9, "wins":2, "losses":7},
+				{ "tag":"Hungrybox", "sets":4, "wins":2, "losses":2},
+				{ "tag":"Leffen",    "sets":7, "wins":4, "losses":3},
+				{ "tag":"Mew2King",  "sets":6, "wins":4, "losses":2},
+				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
+				{ "tag":"Plup",      "sets":3, "wins":2, "losses":1},
+				{ "tag":"Westballz", "sets":5, "wins":3, "losses":2},
+				{ "tag":"Axe",       "sets":4, "wins":3, "losses":1},
+				{ "tag":"Shroomed",  "sets":10, "wins":6, "losses":4}
+			]
+		},
+		"Mew2King": {
+			"sponsor": "blah",
+			"tag":"Mew2King",
+			"rank":5,
+			"performance":[
+				{ "tag":"Armada",    "sets":2, "wins":0, "losses":2},
+				{ "tag":"Hungrybox", "sets":8, "wins":1, "losses":7},
+				{ "tag":"Leffen",    "sets":9, "wins":4, "losses":5},
+				{ "tag":"Mango",     "sets":6, "wins":2, "losses":4},
+				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
+				{ "tag":"Plup",      "sets":16, "wins":12, "losses":4},
+				{ "tag":"Westballz", "sets":5, "wins":4, "losses":1},
+				{ "tag":"Axe",       "sets":4, "wins":3, "losses":1},
+				{ "tag":"Shroomed",  "sets":3, "wins":3, "losses":0}
+			]
+		},
+		"PPMD": {
+			"sponsor":"Evil Geniuses",
+			"tag":"PPMD",
+			"rank":6,
+			"performance": [
+				{ "tag":"Armada",    "sets":5, "wins":2, "losses":3},
+				{ "tag":"Hungrybox", "sets":1, "wins":0, "losses":1},
+				{ "tag":"Leffen",    "sets":1, "wins":1, "losses":0},
+				{ "tag":"Mango",     "sets":0, "wins":0, "losses":0},
+				{ "tag":"Mew2King",  "sets":0, "wins":0, "losses":0},
+				{ "tag":"Plup",      "sets":0, "wins":0, "losses":0},
+				{ "tag":"Westballz", "sets":2, "wins":1, "losses":1},
+				{ "tag":"Axe",       "sets":0, "wins":0, "losses":0},
+				{ "tag":"Shroomed",  "sets":1, "wins":1, "losses":0}
+			]	
+		},
+		"Plup": {
+			"sponsor": "Panda Global Gaming",
+			"tag": "Plup",
+			"rank": 7,
+			"performance": [
+				{ "tag":"Armada",    "sets":2, "wins":0, "losses":2},
+				{ "tag":"Hungrybox", "sets":21,"wins":6, "losses":15},
+				{ "tag":"Leffen",    "sets":4, "wins":2, "losses":2},
+				{ "tag":"Mango",     "sets":5, "wins":2, "losses":3},
+				{ "tag":"Mew2King",  "sets":5, "wins":1, "losses":4},
+				{ "tag":"PPMD",      "sets":2, "wins":1, "losses":1},
+				{ "tag":"Westballz", "sets":3, "wins":2, "losses":1},
+				{ "tag":"Axe",       "sets":4, "wins":2, "losses":2},
+				{ "tag":"Shroomed",  "sets":7, "wins":5, "losses":2}
+			]
+		},
+		"Westballz": {
+			"sponsor": "Tempo",
+			"tag":"Westballz",
+			"rank": 8,
+			"performance": [
+				{ "tag":"Armada",    "sets":5, "wins":0, "losses":5},
+				{ "tag":"Hungrybox", "sets":3, "wins":1, "losses":2},
+				{ "tag":"Leffen",    "sets":4, "wins":1, "losses":3},
+				{ "tag":"Mango",     "sets":10,"wins":4, "losses":6},
+				{ "tag":"Mew2King",  "sets":3, "wins":0, "losses":3},
+				{ "tag":"PPMD",      "sets":1, "wins":0, "losses":1},
+				{ "tag":"Plup",      "sets":7, "wins":2, "losses":5},
+				{ "tag":"Axe",       "sets":14,"wins":7, "losses":7},
+				{ "tag":"Shroomed",  "sets":6, "wins":4, "losses":2}
+			]	
+		},
+		"Axe": {
+			"sponsor": "Tempo",
+			"tag": "Axe",
+			"rank":9,
+			"performance": [
+				{ "tag":"Armada",    "sets":2, "wins":0, "losses":2},
+				{ "tag":"Hungrybox", "sets":3, "wins":0, "losses":3},
+				{ "tag":"Leffen",    "sets":4, "wins":1, "losses":3},
+				{ "tag":"Mango",     "sets":3, "wins":1, "losses":2},
+				{ "tag":"Mew2King",  "sets":16,"wins":4, "losses":12},
+				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
+				{ "tag":"Plup",      "sets":3, "wins":1, "losses":2},
+				{ "tag":"Westballz", "sets":5, "wins":2, "losses":3},
+				{ "tag":"Shroomed",  "sets":14,"wins":7, "losses":7}
+			]	
+		},
+		"Shroomed": {
+			"sponsor":"Winterfox",
+			"tag":"Shroomed",
+			"rank":10,
+			"performance":[
+			{ "tag":"Armada",    "sets":2, "wins":0, "losses":2},
+			{ "tag":"Hungrybox", "sets":2, "wins":0, "losses":2},
+			{ "tag":"Leffen",    "sets":1, "wins":0, "losses":1},
+			{ "tag":"Mango",     "sets":4, "wins":1, "losses":3},
+			{ "tag":"Mew2King",  "sets":4, "wins":1, "losses":3},
+			{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
+			{ "tag":"Plup",      "sets":5, "wins":3, "losses":2},
+			{ "tag":"Westballz", "sets":4, "wins":2, "losses":2},
+			{ "tag":"Axe",       "sets":6, "wins":2, "losses":4}
+		]
+		}
+	}
+}
