@@ -11,9 +11,9 @@
 				{ "tag":"Mew2King",  "sets":2, "wins":2, "losses":0},
 				{ "tag":"PPMD",      "sets":5, "wins":3, "losses":2},
 				{ "tag":"Plup",      "sets":2, "wins":2, "losses":0},
-				{ "tag":"Westballz", "sets":2, "wins":2, "losses":0},
+				{ "tag":"Westballz", "sets":5, "wins":5, "losses":0},
 				{ "tag":"Axe",       "sets":2, "wins":2, "losses":0},
-				{ "tag":"Shroomed",  "sets":5, "wins":5, "losses":0}	
+				{ "tag":"Shroomed",  "sets":2, "wins":2, "losses":0}	
 			]
 		},		
 		"Hungrybox": {
@@ -26,10 +26,10 @@
 				{ "tag":"Mango",     "sets":4, "wins":2, "losses":2},
 				{ "tag":"Mew2King",  "sets":8, "wins":7, "losses":1},
 				{ "tag":"PPMD",      "sets":1, "wins":1, "losses":0},
-				{ "tag":"Plup",      "sets":3, "wins":3, "losses":0},
-				{ "tag":"Westballz", "sets":21, "wins":15, "losses":0},
-				{ "tag":"Axe",       "sets":2, "wins":2, "losses":0},
-				{ "tag":"Shroomed",  "sets":3, "wins":2, "losses":1}	
+				{ "tag":"Plup",      "sets":21, "wins":15, "losses":6},
+				{ "tag":"Westballz", "sets":3, "wins":2, "losses":1},
+				{ "tag":"Axe",       "sets":3, "wins":3, "losses":0},
+				{ "tag":"Shroomed",  "sets":2, "wins":2, "losses":0}	
 			]
 		},
 		"Leffen": {
@@ -42,10 +42,10 @@
 				{ "tag":"Mango",     "sets":7, "wins":3, "losses":7},
 				{ "tag":"Mew2King",  "sets":9, "wins":5, "losses":4},
 				{ "tag":"PPMD",      "sets":1, "wins":0, "losses":1},
-				{ "tag":"Plup",      "sets":4, "wins":3, "losses":1},
-				{ "tag":"Westballz", "sets":4, "wins":2, "losses":2},
-				{ "tag":"Axe",       "sets":1, "wins":1, "losses":0},
-				{ "tag":"Shroomed",  "sets":4, "wins":3, "losses":1}
+				{ "tag":"Plup",      "sets":4, "wins":2, "losses":2},
+				{ "tag":"Westballz", "sets":4, "wins":3, "losses":1},
+				{ "tag":"Axe",       "sets":4, "wins":3, "losses":1},
+				{ "tag":"Shroomed",  "sets":1, "wins":1, "losses":0}
 			]
 		},
 		"Mango": {
@@ -58,10 +58,10 @@
 				{ "tag":"Leffen",    "sets":7, "wins":4, "losses":3},
 				{ "tag":"Mew2King",  "sets":6, "wins":4, "losses":2},
 				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
-				{ "tag":"Plup",      "sets":3, "wins":2, "losses":1},
-				{ "tag":"Westballz", "sets":5, "wins":3, "losses":2},
-				{ "tag":"Axe",       "sets":4, "wins":3, "losses":1},
-				{ "tag":"Shroomed",  "sets":10, "wins":6, "losses":4}
+				{ "tag":"Plup",      "sets":5, "wins":3, "losses":2},
+				{ "tag":"Westballz", "sets":10, "wins":6, "losses":4},
+				{ "tag":"Axe",       "sets":3, "wins":2, "losses":1},
+				{ "tag":"Shroomed",  "sets":4, "wins":3, "losses":1}
 			]
 		},
 		"Mew2King": {
@@ -74,10 +74,10 @@
 				{ "tag":"Leffen",    "sets":9, "wins":4, "losses":5},
 				{ "tag":"Mango",     "sets":6, "wins":2, "losses":4},
 				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
-				{ "tag":"Plup",      "sets":16, "wins":12, "losses":4},
-				{ "tag":"Westballz", "sets":5, "wins":4, "losses":1},
-				{ "tag":"Axe",       "sets":4, "wins":3, "losses":1},
-				{ "tag":"Shroomed",  "sets":3, "wins":3, "losses":0}
+				{ "tag":"Plup",      "sets":5, "wins":4, "losses":1},
+				{ "tag":"Westballz", "sets":3, "wins":3, "losses":0},
+				{ "tag":"Axe",       "sets":16, "wins":12, "losses":4},
+				{ "tag":"Shroomed",  "sets":4, "wins":3, "losses":1}
 			]
 		},
 		"PPMD": {
@@ -90,14 +90,14 @@
 				{ "tag":"Leffen",    "sets":1, "wins":1, "losses":0},
 				{ "tag":"Mango",     "sets":0, "wins":0, "losses":0},
 				{ "tag":"Mew2King",  "sets":0, "wins":0, "losses":0},
-				{ "tag":"Plup",      "sets":0, "wins":0, "losses":0},
-				{ "tag":"Westballz", "sets":2, "wins":1, "losses":1},
+				{ "tag":"Plup",      "sets":2, "wins":1, "losses":1},
+				{ "tag":"Westballz", "sets":1, "wins":1, "losses":0},
 				{ "tag":"Axe",       "sets":0, "wins":0, "losses":0},
-				{ "tag":"Shroomed",  "sets":1, "wins":1, "losses":0}
+				{ "tag":"Shroomed",  "sets":0, "wins":0, "losses":0}
 			]	
 		},
 		"Plup": {
-			"sponsor": "Panda Global Gaming",
+			"sponsor": "Panda Global",
 			"tag": "Plup",
 			"rank": 7,
 			"performance": [
@@ -107,13 +107,13 @@
 				{ "tag":"Mango",     "sets":5, "wins":2, "losses":3},
 				{ "tag":"Mew2King",  "sets":5, "wins":1, "losses":4},
 				{ "tag":"PPMD",      "sets":2, "wins":1, "losses":1},
-				{ "tag":"Westballz", "sets":3, "wins":2, "losses":1},
-				{ "tag":"Axe",       "sets":4, "wins":2, "losses":2},
-				{ "tag":"Shroomed",  "sets":7, "wins":5, "losses":2}
+				{ "tag":"Westballz", "sets":7, "wins":5, "losses":2},
+				{ "tag":"Axe",       "sets":3, "wins":2, "losses":1},
+				{ "tag":"Shroomed",  "sets":4, "wins":2, "losses":2}
 			]
 		},
 		"Westballz": {
-			"sponsor": "Tempo",
+			"sponsor": "Tempo Storm",
 			"tag":"Westballz",
 			"rank": 8,
 			"performance": [
@@ -129,7 +129,7 @@
 			]	
 		},
 		"Axe": {
-			"sponsor": "Tempo",
+			"sponsor": "Tempo Storm",
 			"tag": "Axe",
 			"rank":9,
 			"performance": [
@@ -140,8 +140,8 @@
 				{ "tag":"Mew2King",  "sets":16,"wins":4, "losses":12},
 				{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
 				{ "tag":"Plup",      "sets":3, "wins":1, "losses":2},
-				{ "tag":"Westballz", "sets":5, "wins":2, "losses":3},
-				{ "tag":"Shroomed",  "sets":14,"wins":7, "losses":7}
+				{ "tag":"Westballz", "sets":14, "wins":7, "losses":7},
+				{ "tag":"Shroomed",  "sets":5,"wins":2, "losses":3}
 			]	
 		},
 		"Shroomed": {
@@ -155,9 +155,9 @@
 			{ "tag":"Mango",     "sets":4, "wins":1, "losses":3},
 			{ "tag":"Mew2King",  "sets":4, "wins":1, "losses":3},
 			{ "tag":"PPMD",      "sets":0, "wins":0, "losses":0},
-			{ "tag":"Plup",      "sets":5, "wins":3, "losses":2},
-			{ "tag":"Westballz", "sets":4, "wins":2, "losses":2},
-			{ "tag":"Axe",       "sets":6, "wins":2, "losses":4}
+			{ "tag":"Plup",      "sets":4, "wins":2, "losses":2},
+			{ "tag":"Westballz", "sets":6, "wins":2, "losses":4},
+			{ "tag":"Axe",       "sets":5, "wins":3, "losses":2}
 		]
 		}
 	}
