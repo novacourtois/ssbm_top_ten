@@ -15,7 +15,7 @@
             ng-options="p for p in top_ten.players"
             ng-model="hello"
             ng-change="set_current_player({{p}})">
-            </select>
+          </select>
         </div>
         <img class="profile-img img" src="img/{{current_player.tag}}.png" ng-cloak/>
         <div class="profile-name">
@@ -104,7 +104,7 @@
       <div class="col-xs-12 col-md-7 performance-col">
         <div class="opponent row" ng-repeat="opponent in current_player.performance" ng-cloak>
           <div class="col-sm-3">
-            <img class="opponent-img img" src="img/{{opponent.tag}}.png" ng-cloak/>
+            <img ng-click="set_current_player(opponent.tag)" class="opponent-img img" src="img/{{opponent.tag}}.png" ng-cloak/>
             <div class="opponent-name">
               <span class="opponent-sponsor">{{player_data.players[opponent.tag].sponsor }} | </span>
               <span class="opponent-tag">{{opponent.tag}}</span>, 
