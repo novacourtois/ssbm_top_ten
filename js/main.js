@@ -8,6 +8,7 @@
     $scope.top_ten = {};
     $scope.current_player = {};
     $scope.p_name = '';
+    $scope.p_name_1 = '';
 
     $scope.Math = window.Math;
 
@@ -26,9 +27,13 @@
     };
 
     $scope.set_current_player = function(name) {
-    	$scope.p_name = name;
-    	console.log($scope.p_name);
-    	$scope.current_player = $scope.player_data.players[$scope.p_name];
+    	$scope.p_name_1 = name;
+    	if($scope.p_name_1 != undefined) {
+    		$scope.current_player = $scope.player_data.players[$scope.p_name_1];
+    	}
+    	else {
+    		$scope.current_player = $scope.player_data.players[$scope.p_name];
+    	}
     }
 
     $scope.calculate_stats = function() {
