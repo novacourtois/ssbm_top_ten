@@ -13,8 +13,8 @@
           </select> -->
           <select class="form-control" ng-cloak
             ng-options="p for p in top_ten.players"
-            ng-model="hello"
-            ng-change="set_current_player({{p}})">
+            ng-model="p_name"
+            ng-change="set_current_player(p)">
           </select>
         </div>
         <img class="profile-img img" src="img/{{current_player.tag}}.png" ng-cloak/>
