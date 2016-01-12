@@ -1,0 +1,186 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+	color: #22313F;
+}
+body {
+	background: url('../img/crossword.png');
+}
+p, div, a {
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4.8em;
+    font-weight: 900;
+    color: #22313F;
+    font-family: 'Lato', sans-serif;
+}
+
+.heading {
+
+padding: 10px;
+margin-bottom: 20px;	
+
+}
+
+
+/* ANGULAR LOADING BAR*/
+#loading-bar .bar {
+	background: #fff;
+}
+
+#loading-bar .peg {
+	-moz-box-shadow: #fff 1px 0 6px 1px;
+	-ms-box-shadow: #fff 1px 0 6px 1px;
+	-webkit-box-shadow: #fff 1px 0 6px 1px;
+	box-shadow: #fff 1px 0 6px 1px;
+}
+
+#loading-bar-spinner .spinner-icon {
+	border-top-color:  #fff;
+	border-left-color: #fff;
+}
+
+/* PLAYER */
+
+.profile {
+	text-align: center;
+}
+.profile-img {
+	width: 260px;
+	height: 260px;
+	border-radius: 50%;
+	background: #ccc;
+	border: 3px solid #ccc;
+}
+
+.profile-name {
+	margin-top: 20px;
+	font-size: 1.3em;
+}
+
+.profile-sponsor {
+	color: #555;
+}
+.profile-tag {
+	font-weight: 600;
+	color: #2a2a2a;
+}
+
+.current-player {
+	margin-top: 20px;
+	text-align: center;
+}
+
+#sel-player option {
+	background: #f3f3f3;
+}
+#sel-player:focus {
+	border-color: #555;
+}
+
+h2 {
+	text-align: left;
+	font-size: 1.4em;
+}
+.aggregate-stats {
+
+}
+
+.aggregate-stats .performance .num-stats {
+	margin-top: 5px;
+	font-size: .9em;
+
+}
+
+.aggregate-stats .performance .num-stats .col-xs-3 {
+	padding: 0 0 0 15px;
+}
+
+.aggregate-stats .performance .progress {
+	height: 10px;
+}
+/* OPPONENT */
+.performance-col {
+
+}
+.opponent-img {
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	background: #ccc;
+	border: 3px solid #ccc;
+}
+
+.img {
+	-webkit-filter: grayscale(100%);
+	-webkit-transition: .75s ease-in-out;
+	-moz-filter: grayscale(100%); 
+	-moz-transition: .75s ease-in-out;
+	-o-filter: grayscale(100%); 
+	-o-transition: .75s ease-in-out;
+}
+
+.img:hover {
+	-webkit-filter: grayscale(0%);
+	-webkit-transition: .75s ease-in-out;
+	-moz-filter: grayscale(0%);
+	-moz-transition: .75s ease-in-out;
+	-o-filter: grayscale(0%);
+	-o-transition: .75s ease-in-out;
+}
+
+.opponent {
+	text-align: center;
+	margin: 20px 0 20px 0;
+	padding-bottom: 20px;
+	border-bottom: 3px solid #f3f3f3;		
+}
+
+.opponent:last-child {
+	margin-bottom: 0px;
+	/*padding-bottom: 0px;*/
+	border-bottom: 0px;
+}
+.opponent-name {
+
+}
+.opponent-sponsor {
+	color: #555;
+}
+
+.opponent-tag {
+	font-weight: 600;
+	color: #2a2a2a;
+}
+
+
+.performance {
+
+}
+.performance .progress {
+	height: 30px;
+}
+.performance .progress-bar {
+	background-color: #555;
+}
+.performance .num-stats {
+	/*text-align: center;*/
+	text-align: left;
+	margin-top: 40px;
+	font-size: 1.2em;
+	color: #555;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.win-rate-bar {
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
